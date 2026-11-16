@@ -13,6 +13,23 @@
 上图来自原项目的集成 UI 纹理截图，展示侧栏、分组设置和帮助入口。它不是本仓库
 独立示例或头显最终合成画面的截图。图中串流、AI 等业务不包含在 UI 库中。
 
+## 详细参数面板截图
+
+以下为原项目已有的面板纹理截图，展示控件布局和参数交互样式。每张只展示当时的
+滚动视口；AI、图像处理等业务由原项目实现，不代表本 UI 库包含相应算法。
+
+| 画面参数：滑块、步进按钮与数值 | 控制参数：下拉选项与开关 |
+| --- | --- |
+| ![画面设置详细参数](docs/images/parameters-picture.png) | ![控制设置详细参数](docs/images/parameters-control.png) |
+| **高级参数：主题、面板背景与菜单布局** | **AI 3D 参数：模型选项与立体视图** |
+| ![高级设置详细参数](docs/images/parameters-advanced.png) | ![AI 3D 设置详细参数](docs/images/parameters-ai3d.png) |
+
+参数帮助浮层示例：点击或悬停帮助入口，显示对应参数的说明。
+
+![算法参数帮助浮层](docs/images/parameter-help.png)
+
+[截图来源与展示范围](docs/SCREENSHOTS.md)。这些图片不是独立示例或头显最终合成截图。
+
 ## 项目结构与功能
 
 - `ui/`：Android library，保留原包名 `com.moonlightxr.nativeui` 便于迁移。

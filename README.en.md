@@ -17,6 +17,25 @@ sample or a final headset compositor capture. It illustrates grouped settings,
 sidebar navigation and help affordances. Streaming and AI features named in the
 image are not implemented by this UI library.
 
+## Detailed parameter panels
+
+These existing original-project UI texture captures illustrate component layout
+and interaction styles. Each shows its captured scroll viewport. AI and image
+processing behavior belongs to the original application, not this UI library.
+
+| Picture: sliders, step buttons and values | Controls: dropdown choices and switches |
+| --- | --- |
+| ![Detailed picture parameters](docs/images/parameters-picture.png) | ![Detailed control parameters](docs/images/parameters-control.png) |
+| **Advanced: theme, surface and menu layout** | **AI 3D: model choices and stereo view** |
+| ![Detailed advanced parameters](docs/images/parameters-advanced.png) | ![Detailed AI 3D parameters](docs/images/parameters-ai3d.png) |
+
+Parameter help overlay, opened from the corresponding help affordance:
+
+![Algorithm parameter help overlay](docs/images/parameter-help.png)
+
+See [screenshot provenance and scope](docs/SCREENSHOTS.md). These are neither
+standalone-sample captures nor final headset-compositor screenshots.
+
 ## Build and run
 
 Install JDK 17, Android SDK platform 37, NDK 30.0.16248370 and CMake 3.22.1.

@@ -14,7 +14,7 @@ It does not replace the licenses of external dependencies.
 | `ui/src/main/res/drawable-nodpi/home_{gallery,streaming,settings}.png` | Existing Microsoft Fluent Emoji assets from original project | MIT; full original notice in `docs/FLUENT-EMOJI-LICENSE.txt` |
 | Three `menu_*.xml` vector drawables | Original project's app-owned vector assets | MIT under this extraction |
 | UI strings, controls, geometry, shaders | Original project's self-authored UI implementation | MIT, owner authorized 2026-11-16 |
-| `docs/images/integrated-settings.png` | Original-project UI texture screenshot | Owner-authorized documentation use; shows app-owned UI, no private content observed |
+| `docs/images/integrated-settings.png`, `parameters-*.png`, `parameter-help.png` | Original-project UI texture screenshots; detailed source mapping in `docs/SCREENSHOTS.md` | Owner-authorized documentation use; shows app-owned UI, no private content observed |
 
 No custom fonts are bundled: text uses the Android/Compose font system. Unicode
 emoji characters in the hex menu are text, not a redistributed emoji font.
