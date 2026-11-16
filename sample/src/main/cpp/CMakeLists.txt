@@ -1,0 +1,7 @@
+cmake_minimum_required(VERSION 3.22.1)
+project(spatial_xr_sample LANGUAGES CXX)
+find_package(OpenXR REQUIRED CONFIG)
+add_library(spatial_xr_sample SHARED xr_sample.cpp)
+target_compile_features(spatial_xr_sample PRIVATE cxx_std_17)
+target_compile_definitions(spatial_xr_sample PRIVATE XR_USE_PLATFORM_ANDROID XR_USE_GRAPHICS_API_OPENGL_ES)
+target_link_libraries(spatial_xr_sample PRIVATE OpenXR::openxr_loader EGL GLESv3 android log)

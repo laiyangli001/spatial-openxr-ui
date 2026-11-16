@@ -1,0 +1,5 @@
+cmake_minimum_required(VERSION 3.22.1)
+project(spatial_openxr_ui LANGUAGES CXX)
+add_library(moonlight_spatial_ui_bridge SHARED spatial_ui_bridge.cpp)
+target_compile_features(moonlight_spatial_ui_bridge PRIVATE cxx_std_17)
+target_link_libraries(moonlight_spatial_ui_bridge PRIVATE GLESv3 android log)

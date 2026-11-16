@@ -1,0 +1,554 @@
+[
+  {
+    "path": "ui/src/filament/java/com/moonlightxr/nativeui/FilamentHomeIcon.kt",
+    "original": "app/src/main/java/com/moonlightxr/nativeui/FilamentHomeIcon.kt",
+    "unchanged": true,
+    "sha256_lf_normalized_text_or_binary": "1e429f6b30a6e63a1ba4b1d84001c8096533cf75a93aca8c7800c46e1d653862"
+  },
+  {
+    "path": "ui/src/filament/java/com/moonlightxr/nativeui/SpatialStereoModelSurface.kt",
+    "original": "app/src/main/java/com/moonlightxr/nativeui/SpatialStereoModelSurface.kt",
+    "unchanged": false,
+    "sha256_lf_normalized_text_or_binary": "351414ec729904e8dae227bb51865a3114d921f4789a222ea3710e690b883f5e"
+  },
+  {
+    "path": "ui/src/main/AndroidManifest.xml",
+    "original": "app/src/colorReference/AndroidManifest.xml",
+    "unchanged": false,
+    "sha256_lf_normalized_text_or_binary": "18af6467c51220070c6b2515b61393e507d67e1cb1a4368a1c758b7a3270f848"
+  },
+  {
+    "path": "ui/src/main/cpp/spatial_ui_bridge.cpp",
+    "original": "app/src/main/cpp/spatial_ui_bridge.cpp",
+    "unchanged": true,
+    "sha256_lf_normalized_text_or_binary": "a5b4e9f157cab8e582336b3443d61331b63be620e59004842e1db6a2e6766b4e"
+  },
+  {
+    "path": "ui/src/main/java/com/moonlightxr/nativeui/ComposeSurfaceProducer.kt",
+    "original": "app/src/main/java/com/moonlightxr/nativeui/ComposeSurfaceProducer.kt",
+    "unchanged": false,
+    "sha256_lf_normalized_text_or_binary": "d05396e21ad85f4bd81694c69c130fa5bcd008682cd758f402d2b9e3e3d9b776"
+  },
+  {
+    "path": "ui/src/main/java/com/moonlightxr/nativeui/HomeIconProjection.kt",
+    "original": "app/src/main/java/com/moonlightxr/nativeui/HomeIconProjection.kt",
+    "unchanged": true,
+    "sha256_lf_normalized_text_or_binary": "3e5cd91ad96b3fae05d459f1fdde62581137486a5d2ca772e7d52472487d7b3d"
+  },
+  {
+    "path": "ui/src/main/java/com/moonlightxr/nativeui/MenuUiState.kt",
+    "original": "extracted or added integration state",
+    "unchanged": false,
+    "sha256_lf_normalized_text_or_binary": "901790fe0eb8767ee5de1d06a0b744dfa557f8254aa6a726710d0e8e55694b89"
+  },
+  {
+    "path": "ui/src/main/java/com/moonlightxr/nativeui/NativeGlesBridge.kt",
+    "original": "app/src/main/java/com/moonlightxr/nativeui/NativeGlesBridge.kt",
+    "unchanged": true,
+    "sha256_lf_normalized_text_or_binary": "df790a2a2f230323c3ba7dd0d903569facd9d64d6cf23527c8611a1ab3dbcb40"
+  },
+  {
+    "path": "ui/src/main/java/com/moonlightxr/nativeui/PictureFilterLevels.kt",
+    "original": "extracted or added integration state",
+    "unchanged": false,
+    "sha256_lf_normalized_text_or_binary": "240c3e09756ac98f3cf484f5a194e37f24ae50b7315fc03b2ef7176662d59fed"
+  },
+  {
+    "path": "ui/src/main/java/com/moonlightxr/nativeui/PointerFrameMailbox.kt",
+    "original": "app/src/main/java/com/moonlightxr/nativeui/PointerFrameMailbox.kt",
+    "unchanged": true,
+    "sha256_lf_normalized_text_or_binary": "3169ffe63d191f2108e0c626fdadf61d519e6346d133209051afdc55ee20bc0f"
+  },
+  {
+    "path": "ui/src/main/java/com/moonlightxr/nativeui/QuadInput.kt",
+    "original": "app/src/main/java/com/moonlightxr/nativeui/QuadInput.kt",
+    "unchanged": true,
+    "sha256_lf_normalized_text_or_binary": "b2e5479e0ed2b06353ef82f83b8ff6727a732ed8cf9fcd945ef296f784c45443"
+  },
+  {
+    "path": "ui/src/main/java/com/moonlightxr/nativeui/QuadPointerRouter.kt",
+    "original": "app/src/main/java/com/moonlightxr/nativeui/QuadPointerRouter.kt",
+    "unchanged": true,
+    "sha256_lf_normalized_text_or_binary": "7cb58b0aca992c439a720e906f197fd5a320f3448d628e0512b017ffac1ab381"
+  },
+  {
+    "path": "ui/src/main/java/com/moonlightxr/nativeui/SpatialButton.kt",
+    "original": "app/src/main/java/com/moonlightxr/nativeui/SpatialButton.kt",
+    "unchanged": true,
+    "sha256_lf_normalized_text_or_binary": "a0ff47d0b7747d69dbb304ba83e3512e38fedd70a6740b900ea35e96cf593348"
+  },
+  {
+    "path": "ui/src/main/java/com/moonlightxr/nativeui/SpatialCoachmarkBox.kt",
+    "original": "app/src/main/java/com/moonlightxr/nativeui/SpatialCoachmarkBox.kt",
+    "unchanged": true,
+    "sha256_lf_normalized_text_or_binary": "7300285a2386022861cf3b8221e1c1641542fc1151e1a77926258520a0e7870c"
+  },
+  {
+    "path": "ui/src/main/java/com/moonlightxr/nativeui/SpatialControls.kt",
+    "original": "app/src/main/java/com/moonlightxr/nativeui/SpatialControls.kt",
+    "unchanged": true,
+    "sha256_lf_normalized_text_or_binary": "26450756b3f91052453ea109843dfc36577e40951389d956657c2cc8f4f0e295"
+  },
+  {
+    "path": "ui/src/main/java/com/moonlightxr/nativeui/SpatialDescriptions.kt",
+    "original": "extracted or added integration state",
+    "unchanged": false,
+    "sha256_lf_normalized_text_or_binary": "5c8d0ed71e44c66e15ae56a3d8e62042a69339996e89c0fad7b3a71f4ce6adc2"
+  },
+  {
+    "path": "ui/src/main/java/com/moonlightxr/nativeui/SpatialExtensionCoordinator.kt",
+    "original": "app/src/main/java/com/moonlightxr/nativeui/SpatialExtensionCoordinator.kt",
+    "unchanged": true,
+    "sha256_lf_normalized_text_or_binary": "514167087b4c9170c4b81d78de1cf37dddeb1283c9477f17e2a962066e3b8b8d"
+  },
+  {
+    "path": "ui/src/main/java/com/moonlightxr/nativeui/SpatialFlatCategoryMenu.kt",
+    "original": "app/src/main/java/com/moonlightxr/nativeui/SpatialFlatCategoryMenu.kt",
+    "unchanged": false,
+    "sha256_lf_normalized_text_or_binary": "7a7529b0d14ed71d643627cea2f8c6ec01ac737f87c19e5acb84a48be2243a35"
+  },
+  {
+    "path": "ui/src/main/java/com/moonlightxr/nativeui/SpatialHexMenu.kt",
+    "original": "app/src/main/java/com/moonlightxr/nativeui/SpatialHexMenu.kt",
+    "unchanged": true,
+    "sha256_lf_normalized_text_or_binary": "aa147ed4cc642850eb4b5b235b4c2a6ab961aba392f64511eea02ae9adbe7cf2"
+  },
+  {
+    "path": "ui/src/main/java/com/moonlightxr/nativeui/SpatialHomeTile.kt",
+    "original": "app/src/main/java/com/moonlightxr/nativeui/SpatialHomeTile.kt",
+    "unchanged": true,
+    "sha256_lf_normalized_text_or_binary": "29938330a38db8c636a22265af316570d0fafaa426c636de7285d8c8fe1d8a14"
+  },
+  {
+    "path": "ui/src/main/java/com/moonlightxr/nativeui/SpatialInlineChoices.kt",
+    "original": "app/src/main/java/com/moonlightxr/nativeui/SpatialInlineChoices.kt",
+    "unchanged": true,
+    "sha256_lf_normalized_text_or_binary": "8d7932f348be5ff1de9ab611f3781979054bf2b30493a1b8fb419a5453886ff7"
+  },
+  {
+    "path": "ui/src/main/java/com/moonlightxr/nativeui/SpatialInputControls.kt",
+    "original": "app/src/main/java/com/moonlightxr/nativeui/SpatialInputControls.kt",
+    "unchanged": true,
+    "sha256_lf_normalized_text_or_binary": "9a87a7e20b35a76ddad98e6384d1656a36f533d4d52b21ceae1d3b5bdb6d0af8"
+  },
+  {
+    "path": "ui/src/main/java/com/moonlightxr/nativeui/SpatialLayerBudgetHost.kt",
+    "original": "app/src/main/java/com/moonlightxr/nativeui/SpatialLayerBudgetHost.kt",
+    "unchanged": true,
+    "sha256_lf_normalized_text_or_binary": "31aea3a4947d66eb857c2997087e48c3f26060dd4270c7f2ca0a0703364d2535"
+  },
+  {
+    "path": "ui/src/main/java/com/moonlightxr/nativeui/SpatialLayerRegistry.kt",
+    "original": "app/src/main/java/com/moonlightxr/nativeui/SpatialLayerRegistry.kt",
+    "unchanged": true,
+    "sha256_lf_normalized_text_or_binary": "994da3003d3794a4b92c502f41b94613093323fe1483c6d507f8353090a5d490"
+  },
+  {
+    "path": "ui/src/main/java/com/moonlightxr/nativeui/SpatialLayoutControls.kt",
+    "original": "app/src/main/java/com/moonlightxr/nativeui/SpatialLayoutControls.kt",
+    "unchanged": true,
+    "sha256_lf_normalized_text_or_binary": "b5a6695f1c33e9cf5af844e3ef7e7a954c627664ca27ea5b00fccd6aa10e53f2"
+  },
+  {
+    "path": "ui/src/main/java/com/moonlightxr/nativeui/SpatialLazyScrollIndicator.kt",
+    "original": "app/src/main/java/com/moonlightxr/nativeui/SpatialLazyScrollIndicator.kt",
+    "unchanged": true,
+    "sha256_lf_normalized_text_or_binary": "3fe3079b630460614f6f99c00bb16a0e12a6749eff720ddd454a58b6af13ce46"
+  },
+  {
+    "path": "ui/src/main/java/com/moonlightxr/nativeui/SpatialOverlayControls.kt",
+    "original": "app/src/main/java/com/moonlightxr/nativeui/SpatialOverlayControls.kt",
+    "unchanged": true,
+    "sha256_lf_normalized_text_or_binary": "d97f8c82928078d02af60b5648e9539ac5301cac575282668ecb1b5b3cee5a1a"
+  },
+  {
+    "path": "ui/src/main/java/com/moonlightxr/nativeui/SpatialPointerOverlay.kt",
+    "original": "app/src/main/java/com/moonlightxr/nativeui/SpatialPointerOverlay.kt",
+    "unchanged": true,
+    "sha256_lf_normalized_text_or_binary": "4a485c34d9f3a3a380ae3a233c563b8e90a7d7d317eb998138b06a32a5e4a5d9"
+  },
+  {
+    "path": "ui/src/main/java/com/moonlightxr/nativeui/SpatialPopupCoordinator.kt",
+    "original": "app/src/main/java/com/moonlightxr/nativeui/SpatialPopupCoordinator.kt",
+    "unchanged": true,
+    "sha256_lf_normalized_text_or_binary": "d1f795f8f84d073ecd77c2fda31bbba6d3d67208880b243d1f42edb78bd59773"
+  },
+  {
+    "path": "ui/src/main/java/com/moonlightxr/nativeui/SpatialRayRouter.kt",
+    "original": "app/src/main/java/com/moonlightxr/nativeui/SpatialRayRouter.kt",
+    "unchanged": true,
+    "sha256_lf_normalized_text_or_binary": "a1f6c6bad8df2d5b9ac59f5f571f34d0d97b8678e1c19217f3066f44cc6a9df8"
+  },
+  {
+    "path": "ui/src/main/java/com/moonlightxr/nativeui/SpatialScrollCapturePlan.kt",
+    "original": "app/src/main/java/com/moonlightxr/nativeui/SpatialScrollCapturePlan.kt",
+    "unchanged": true,
+    "sha256_lf_normalized_text_or_binary": "fdc7d7a1d9331d51e0c8d394e2b3e8ccacaef910d53719dbe1c5fbbc64c9ab13"
+  },
+  {
+    "path": "ui/src/main/java/com/moonlightxr/nativeui/SpatialScrollRegistry.kt",
+    "original": "app/src/main/java/com/moonlightxr/nativeui/SpatialScrollRegistry.kt",
+    "unchanged": true,
+    "sha256_lf_normalized_text_or_binary": "ce69090a24087fe29a1af96424e93f600d5436edd5008715b0ef96f413828725"
+  },
+  {
+    "path": "ui/src/main/java/com/moonlightxr/nativeui/SpatialSelectionControls.kt",
+    "original": "app/src/main/java/com/moonlightxr/nativeui/SpatialSelectionControls.kt",
+    "unchanged": true,
+    "sha256_lf_normalized_text_or_binary": "e3eaae6f45759a5f3367d3667f7e6f23ecb53be09d9081ea20b227aa0b096740"
+  },
+  {
+    "path": "ui/src/main/java/com/moonlightxr/nativeui/SpatialSettingsLayout.kt",
+    "original": "app/src/main/java/com/moonlightxr/nativeui/SpatialSettingsLayout.kt",
+    "unchanged": true,
+    "sha256_lf_normalized_text_or_binary": "df6cba94ed5df89ce405a5667c2714f700b861e52a87a619334345db639a7270"
+  },
+  {
+    "path": "ui/src/main/java/com/moonlightxr/nativeui/SpatialStereoImage.kt",
+    "original": "app/src/main/java/com/moonlightxr/nativeui/SpatialStereoImage.kt",
+    "unchanged": true,
+    "sha256_lf_normalized_text_or_binary": "a3b552a354a56a669262a7fcd522c7a0cad98d0cf8975e1e04ca1ab79102e05d"
+  },
+  {
+    "path": "ui/src/main/java/com/moonlightxr/nativeui/SpatialSupplementalControls.kt",
+    "original": "app/src/main/java/com/moonlightxr/nativeui/SpatialSupplementalControls.kt",
+    "unchanged": true,
+    "sha256_lf_normalized_text_or_binary": "acb75afb00b1a39a3c03795dbdd5c6681ad152a1deab7e0c5a0b88515275a6e0"
+  },
+  {
+    "path": "ui/src/main/java/com/moonlightxr/nativeui/SpatialText.kt",
+    "original": "app/src/main/java/com/moonlightxr/nativeui/SpatialText.kt",
+    "unchanged": true,
+    "sha256_lf_normalized_text_or_binary": "af5da86b946c770246b09c7dd68803e940c3284dfa25161cc7248d36e5e5b065"
+  },
+  {
+    "path": "ui/src/main/java/com/moonlightxr/nativeui/SpatialTextContextMenu.kt",
+    "original": "app/src/main/java/com/moonlightxr/nativeui/SpatialTextContextMenu.kt",
+    "unchanged": true,
+    "sha256_lf_normalized_text_or_binary": "49b2a1260234e495e7f06bbfd7d99f87218549ee24aaad357851e2fafdf7d48c"
+  },
+  {
+    "path": "ui/src/main/java/com/moonlightxr/nativeui/SpatialTheme.kt",
+    "original": "app/src/main/java/com/moonlightxr/nativeui/SpatialTheme.kt",
+    "unchanged": true,
+    "sha256_lf_normalized_text_or_binary": "ab17493cd90d4fe8134308c41716705edbca52d8fd2b3dbf642baf5aea6da6b7"
+  },
+  {
+    "path": "ui/src/main/java/com/moonlightxr/nativeui/SpatialThemeManager.kt",
+    "original": "app/src/main/java/com/moonlightxr/nativeui/SpatialThemeManager.kt",
+    "unchanged": true,
+    "sha256_lf_normalized_text_or_binary": "60c41bd76f637ca29d893625d9fa613c4cb9c94ec571cb1ff441f582c8bfccc7"
+  },
+  {
+    "path": "ui/src/main/java/com/moonlightxr/nativeui/SpatialUiLayers.kt",
+    "original": "app/src/main/java/com/moonlightxr/nativeui/SpatialUiLayers.kt",
+    "unchanged": true,
+    "sha256_lf_normalized_text_or_binary": "371c2e2ba1a1128c1b448537db3609a30fb567bae3729a783b4662cb4d8ebcb7"
+  },
+  {
+    "path": "ui/src/main/java/com/moonlightxr/nativeui/SpatialWindowControls.kt",
+    "original": "app/src/main/java/com/moonlightxr/nativeui/SpatialWindowControls.kt",
+    "unchanged": true,
+    "sha256_lf_normalized_text_or_binary": "83e7c8c04a982311d69986264738c801d4637a6cf4fca9b10b7f56269b142dec"
+  },
+  {
+    "path": "ui/src/main/java/com/moonlightxr/nativeui/StereoPoseSource.kt",
+    "original": "extracted or added integration state",
+    "unchanged": false,
+    "sha256_lf_normalized_text_or_binary": "56e4d884b3c1689fcfb0bd03f123f83567d420c93d34eec5e18490eaefdc350f"
+  },
+  {
+    "path": "ui/src/main/java/com/moonlightxr/nativeui/UiFeedback.kt",
+    "original": "app/src/main/java/com/moonlightxr/nativeui/UiFeedback.kt",
+    "unchanged": true,
+    "sha256_lf_normalized_text_or_binary": "4cec92f531abb8aa7c5b69962255bcdce52e19391ab7a500f3828d9ff231030a"
+  },
+  {
+    "path": "ui/src/main/java/com/moonlightxr/nativeui/VirtualKeyboard.kt",
+    "original": "app/src/main/java/com/moonlightxr/nativeui/VirtualKeyboard.kt",
+    "unchanged": true,
+    "sha256_lf_normalized_text_or_binary": "aa50c10b8552d18d2b03cfd3b8c40fb45ee18635601cfa7d040a5b50b9ac6965"
+  },
+  {
+    "path": "ui/src/main/java/com/moonlightxr/nativeui/VirtualKeyboardCallbacks.kt",
+    "original": "app/src/main/java/com/moonlightxr/nativeui/VirtualKeyboardCallbacks.kt",
+    "unchanged": true,
+    "sha256_lf_normalized_text_or_binary": "74e467d620325bee8a3baa5bab11db2184b474a25ad159f69906842e7c9a3054"
+  },
+  {
+    "path": "ui/src/main/java/com/moonlightxr/nativeui/VirtualKeyboardTarget.kt",
+    "original": "app/src/main/java/com/moonlightxr/nativeui/VirtualKeyboardTarget.kt",
+    "unchanged": true,
+    "sha256_lf_normalized_text_or_binary": "a2e8b49b332af39eba8ca9f0fb08273f79b3c0c5042905fa7d676d2d6c795798"
+  },
+  {
+    "path": "ui/src/main/res/drawable/menu_ai3d.xml",
+    "original": "app/src/main/res/drawable/menu_ai3d.xml",
+    "unchanged": true,
+    "sha256_lf_normalized_text_or_binary": "5811de2c8329fcf2ce315a76f700f7b7d8b333b6e0f7505747024c93c3ac39d8"
+  },
+  {
+    "path": "ui/src/main/res/drawable/menu_display.xml",
+    "original": "app/src/main/res/drawable/menu_display.xml",
+    "unchanged": true,
+    "sha256_lf_normalized_text_or_binary": "f130d761af1d795f4efa6b29e534f471ff8966392c5ee493293994d002fbcd13"
+  },
+  {
+    "path": "ui/src/main/res/drawable/menu_multidisplay.xml",
+    "original": "app/src/main/res/drawable/menu_multidisplay.xml",
+    "unchanged": true,
+    "sha256_lf_normalized_text_or_binary": "668acc754da4b7c90dda489a50076dadaacdb56a2d61b00fe71bdf7b5946678d"
+  },
+  {
+    "path": "ui/src/main/res/drawable-nodpi/home_gallery.png",
+    "original": "app/src/main/res/drawable-nodpi/home_gallery.png",
+    "unchanged": true,
+    "sha256_lf_normalized_text_or_binary": "e70eeb3cd3b5c8bd6633a9ddf0c5f0bb7e0c4be45c89b9b2aad689276aad35bc"
+  },
+  {
+    "path": "ui/src/main/res/drawable-nodpi/home_settings.png",
+    "original": "app/src/main/res/drawable-nodpi/home_settings.png",
+    "unchanged": true,
+    "sha256_lf_normalized_text_or_binary": "415296d4fadabc2e0f6593143ea632948fef20a1cd73fbbc3dbda571f0421988"
+  },
+  {
+    "path": "ui/src/main/res/drawable-nodpi/home_streaming.png",
+    "original": "app/src/main/res/drawable-nodpi/home_streaming.png",
+    "unchanged": true,
+    "sha256_lf_normalized_text_or_binary": "4b01e22089defe553717d49624e673cb5492ecdd9c6a8eddb7e6ba12d400c0da"
+  },
+  {
+    "path": "ui/src/main/res/values/strings.xml",
+    "original": "app/src/main/res/values/strings.xml",
+    "unchanged": true,
+    "sha256_lf_normalized_text_or_binary": "be678308e1493b4509933c0651665d463cf33caa3f7d8e43dda038892be96809"
+  },
+  {
+    "path": "ui/src/main/res/values-zh/strings.xml",
+    "original": "app/src/main/res/values/strings.xml",
+    "unchanged": false,
+    "sha256_lf_normalized_text_or_binary": "e5cad9a7adc2712281b00d236bcb87cf749d4625ba92e96b456fa1f229d4a8de"
+  },
+  {
+    "path": "ui/src/test/java/com/moonlightxr/nativeui/HexMenuThemeTest.kt",
+    "original": "app/src/test/java/com/moonlightxr/nativeui/HexMenuThemeTest.kt",
+    "unchanged": true,
+    "sha256_lf_normalized_text_or_binary": "afb27482958dba716d31140705e540ab2447e6c2dccb89d638c7f707bfdbf72a"
+  },
+  {
+    "path": "ui/src/test/java/com/moonlightxr/nativeui/HomeIconProjectionTest.kt",
+    "original": "app/src/test/java/com/moonlightxr/nativeui/HomeIconProjectionTest.kt",
+    "unchanged": true,
+    "sha256_lf_normalized_text_or_binary": "42898a52e61625a79dc8bb7fbbb3b01a4bbd2240014d0a688649ca1ab8009f42"
+  },
+  {
+    "path": "ui/src/test/java/com/moonlightxr/nativeui/QuadInputTest.kt",
+    "original": "app/src/test/java/com/moonlightxr/nativeui/QuadInputTest.kt",
+    "unchanged": true,
+    "sha256_lf_normalized_text_or_binary": "a6c2eddfbc59bdf5b3d3f8510cf049ab5e7a9d4576eb9e55ab69ef043c8dbf47"
+  },
+  {
+    "path": "ui/src/test/java/com/moonlightxr/nativeui/QuadPointerProtocolTest.kt",
+    "original": "app/src/test/java/com/moonlightxr/nativeui/QuadPointerProtocolTest.kt",
+    "unchanged": true,
+    "sha256_lf_normalized_text_or_binary": "47fe77bc62a61b326aa8d907ce8d54c5607b9ffd96416f9e0455befba5e8081d"
+  },
+  {
+    "path": "ui/src/test/java/com/moonlightxr/nativeui/SpatialButtonTest.kt",
+    "original": "app/src/test/java/com/moonlightxr/nativeui/SpatialButtonTest.kt",
+    "unchanged": true,
+    "sha256_lf_normalized_text_or_binary": "fcad98282194cd23b0f5ce99a17138e476f4331e9f50b2f81ee850d4b96315c4"
+  },
+  {
+    "path": "ui/src/test/java/com/moonlightxr/nativeui/SpatialExtensionCoordinatorTest.kt",
+    "original": "app/src/test/java/com/moonlightxr/nativeui/SpatialExtensionCoordinatorTest.kt",
+    "unchanged": false,
+    "sha256_lf_normalized_text_or_binary": "f15259755edd5b4adb5762dce2fdd606ec215828a527cd3ccb69847cc00f321a"
+  },
+  {
+    "path": "ui/src/test/java/com/moonlightxr/nativeui/SpatialHexMenuTest.kt",
+    "original": "app/src/test/java/com/moonlightxr/nativeui/SpatialHexMenuTest.kt",
+    "unchanged": false,
+    "sha256_lf_normalized_text_or_binary": "af373bdee44ff019e2836a73813151d5d22f5781faf32323924f2754c482239b"
+  },
+  {
+    "path": "ui/src/test/java/com/moonlightxr/nativeui/SpatialInlineChoicesTest.kt",
+    "original": "app/src/test/java/com/moonlightxr/nativeui/SpatialInlineChoicesTest.kt",
+    "unchanged": false,
+    "sha256_lf_normalized_text_or_binary": "42b552ee7f4dc7e331f0175b2e179863ec9925b63e610cd4023d53ea422ee287"
+  },
+  {
+    "path": "ui/src/test/java/com/moonlightxr/nativeui/SpatialInputControlsTest.kt",
+    "original": "app/src/test/java/com/moonlightxr/nativeui/SpatialInputControlsTest.kt",
+    "unchanged": true,
+    "sha256_lf_normalized_text_or_binary": "e8611b090b9fc871adf0fefb3bde3488cf5b7e5233fcbfee688a03b8110a255d"
+  },
+  {
+    "path": "ui/src/test/java/com/moonlightxr/nativeui/SpatialLayerBudgetHostTest.kt",
+    "original": "app/src/test/java/com/moonlightxr/nativeui/SpatialLayerBudgetHostTest.kt",
+    "unchanged": true,
+    "sha256_lf_normalized_text_or_binary": "7898d7d9188cc248800e2ec2ce3219d77f56f032f022a3b60fa4e50d68763229"
+  },
+  {
+    "path": "ui/src/test/java/com/moonlightxr/nativeui/SpatialLayerRegistryTest.kt",
+    "original": "app/src/test/java/com/moonlightxr/nativeui/SpatialLayerRegistryTest.kt",
+    "unchanged": true,
+    "sha256_lf_normalized_text_or_binary": "c5aff52c0a814aeaffa28862b2a13b4ced640ab86c36076a6a29b63fa719e5c6"
+  },
+  {
+    "path": "ui/src/test/java/com/moonlightxr/nativeui/SpatialLazyScrollIndicatorTest.kt",
+    "original": "app/src/test/java/com/moonlightxr/nativeui/SpatialLazyScrollIndicatorTest.kt",
+    "unchanged": true,
+    "sha256_lf_normalized_text_or_binary": "861d2d76e95e67d170f6d15af2df705291a46ea705f329307df9ff54902b3f39"
+  },
+  {
+    "path": "ui/src/test/java/com/moonlightxr/nativeui/SpatialPopupCoordinatorTest.kt",
+    "original": "app/src/test/java/com/moonlightxr/nativeui/SpatialPopupCoordinatorTest.kt",
+    "unchanged": true,
+    "sha256_lf_normalized_text_or_binary": "eca01b79a821aef855edb354d678d4bac67b00d069f8153b8989d314ef3ad942"
+  },
+  {
+    "path": "ui/src/test/java/com/moonlightxr/nativeui/SpatialRayRouterTest.kt",
+    "original": "app/src/test/java/com/moonlightxr/nativeui/SpatialRayRouterTest.kt",
+    "unchanged": true,
+    "sha256_lf_normalized_text_or_binary": "e6b5c692508fd967eb9b6a085d423cdf16a34f71b6e10002f7b4a7e15734b2d2"
+  },
+  {
+    "path": "ui/src/test/java/com/moonlightxr/nativeui/SpatialScrollCapturePlanTest.kt",
+    "original": "app/src/test/java/com/moonlightxr/nativeui/SpatialScrollCapturePlanTest.kt",
+    "unchanged": true,
+    "sha256_lf_normalized_text_or_binary": "d83541a7179ad723eb74e7acef3ca29fc0a433c561cf6302fe3546d9624705d1"
+  },
+  {
+    "path": "ui/src/test/java/com/moonlightxr/nativeui/SpatialScrollRegistryTest.kt",
+    "original": "app/src/test/java/com/moonlightxr/nativeui/SpatialScrollRegistryTest.kt",
+    "unchanged": true,
+    "sha256_lf_normalized_text_or_binary": "52e17ec2bbc6a61143b829a5d1b474d7f0b8552d4442936a033f2366bfa13ed8"
+  },
+  {
+    "path": "ui/src/test/java/com/moonlightxr/nativeui/SpatialStepVisualTest.kt",
+    "original": "app/src/test/java/com/moonlightxr/nativeui/SpatialStepVisualTest.kt",
+    "unchanged": true,
+    "sha256_lf_normalized_text_or_binary": "50bf8648356cb890280a36ada7815c58c93490e56285dce9b15d88e52765eca6"
+  },
+  {
+    "path": "ui/src/test/java/com/moonlightxr/nativeui/SpatialThemeManagerTest.kt",
+    "original": "app/src/test/java/com/moonlightxr/nativeui/SpatialThemeManagerTest.kt",
+    "unchanged": true,
+    "sha256_lf_normalized_text_or_binary": "825514e5f6b14c7760255dc5c287e1e69f759ae70de4985c331407d151284f91"
+  },
+  {
+    "path": "ui/src/test/java/com/moonlightxr/nativeui/SpatialUiLayersTest.kt",
+    "original": "app/src/test/java/com/moonlightxr/nativeui/SpatialUiLayersTest.kt",
+    "unchanged": true,
+    "sha256_lf_normalized_text_or_binary": "1f09ae40e0b466f43f60443f6f2ca8bf5b9f21743b88a044f9614177ff824117"
+  },
+  {
+    "path": "ui/src/test/java/com/moonlightxr/nativeui/SpatialWindowControlsTest.kt",
+    "original": "app/src/test/java/com/moonlightxr/nativeui/SpatialWindowControlsTest.kt",
+    "unchanged": true,
+    "sha256_lf_normalized_text_or_binary": "aebf9cda6601ba4945175fed1dabfa297ebeab408101329bde2b2395f789a091"
+  },
+  {
+    "path": "native/include/panel_manipulation.h",
+    "original": "app/src/main/cpp/panel_manipulation.h",
+    "unchanged": true,
+    "sha256_lf_normalized_text_or_binary": "259d8c1a7572df08e07523c3d3c525e4ef29433cd2cf8c56f7295be1b4a24ff3"
+  },
+  {
+    "path": "native/include/spatial_hand_selection.h",
+    "original": "app/src/main/cpp/spatial_hand_selection.h",
+    "unchanged": true,
+    "sha256_lf_normalized_text_or_binary": "53ce779d193537fbb9f1f165f19c906a94e761d7fce4caaaa6c2c78bd80ffba8"
+  },
+  {
+    "path": "native/include/spatial_panel_placement.h",
+    "original": "app/src/main/cpp/spatial_panel_placement.h",
+    "unchanged": true,
+    "sha256_lf_normalized_text_or_binary": "8b3147f33438695c26a673d200e8c42291a5b2e04f16163d4886c8dfe620a97d"
+  },
+  {
+    "path": "native/include/spatial_stereo_groups.h",
+    "original": "app/src/main/cpp/spatial_stereo_groups.h",
+    "unchanged": true,
+    "sha256_lf_normalized_text_or_binary": "ea8a74b970fe91e67b26001a910d1bebe8ef9a7c3943fd27104f0be59b5f7973"
+  },
+  {
+    "path": "native/include/ui_pointer_target.h",
+    "original": "app/src/main/cpp/ui_pointer_target.h",
+    "unchanged": true,
+    "sha256_lf_normalized_text_or_binary": "446a46604634df2da0423663e9f262a6be5a8827988648f727f7590e75e68c80"
+  },
+  {
+    "path": "native/include/upright_ui_pose.h",
+    "original": "app/src/main/cpp/upright_ui_pose.h",
+    "unchanged": true,
+    "sha256_lf_normalized_text_or_binary": "18d7b6957b83fc2847ca93d7c3db738a98cba63a6f2b8fff1f01ae1926b6f937"
+  },
+  {
+    "path": "adapters/vulkan/controller_layer_state.h",
+    "original": "app/src/main/cpp/controller_layer_state.h",
+    "unchanged": true,
+    "sha256_lf_normalized_text_or_binary": "b1e86cbeab08d20515cd056bf682cf425efdaa16a3b1fdc038637c3136240ab1"
+  },
+  {
+    "path": "adapters/vulkan/vulkan_compose_surface.cpp",
+    "original": "app/src/main/cpp/vulkan_compose_surface.cpp",
+    "unchanged": true,
+    "sha256_lf_normalized_text_or_binary": "3ef044ff2c29820cb3978ff51eb6f4e885ec0028a0b01f40a8302b0c7aeb67aa"
+  },
+  {
+    "path": "adapters/vulkan/vulkan_compose_surface.h",
+    "original": "app/src/main/cpp/vulkan_compose_surface.h",
+    "unchanged": true,
+    "sha256_lf_normalized_text_or_binary": "2eaf39a286e73010f045b956e100de42d957cab3aecaa3351c553743da150c35"
+  },
+  {
+    "path": "adapters/vulkan/vulkan_surface_requests.cpp",
+    "original": "app/src/main/cpp/vulkan_surface_requests.cpp",
+    "unchanged": true,
+    "sha256_lf_normalized_text_or_binary": "6499a92f0c65a2556396f980a20f9f8c25539032dc0285d6e63d6cb3e81eec59"
+  },
+  {
+    "path": "adapters/vulkan/vulkan_surface_requests.h",
+    "original": "app/src/main/cpp/vulkan_surface_requests.h",
+    "unchanged": true,
+    "sha256_lf_normalized_text_or_binary": "b145515f2aedfa2e101cdd70285e6364fbcc01d3fe7d7119994e4e24bd36eff8"
+  },
+  {
+    "path": "adapters/vulkan/vulkan_ui_color_pass.cpp",
+    "original": "app/src/main/cpp/vulkan_ui_color_pass.cpp",
+    "unchanged": true,
+    "sha256_lf_normalized_text_or_binary": "9817878a1ad70fcd4dcdf31d47f7b15ce15babf9bbf44ccab43370e1d9903679"
+  },
+  {
+    "path": "adapters/vulkan/vulkan_ui_color_pass.h",
+    "original": "app/src/main/cpp/vulkan_ui_color_pass.h",
+    "unchanged": true,
+    "sha256_lf_normalized_text_or_binary": "59a363ae2e796b1e5b7fdc4ac21f53c84c2a1232c1a8f37b11016925a6624761"
+  },
+  {
+    "path": "adapters/vulkan/vulkan_ui_layers.cpp",
+    "original": "app/src/main/cpp/vulkan_ui_layers.cpp",
+    "unchanged": true,
+    "sha256_lf_normalized_text_or_binary": "d0283fcfb8a6364573b810926836a27582549e170f5dfa59be6e2439322813f1"
+  },
+  {
+    "path": "adapters/vulkan/vulkan_ui_layers.h",
+    "original": "app/src/main/cpp/vulkan_ui_layers.h",
+    "unchanged": true,
+    "sha256_lf_normalized_text_or_binary": "b51018fc10bc7212b389d2d3e0f1c380fe0b3446e446144c52d28b2ebbdd9ad4"
+  },
+  {
+    "path": "adapters/vulkan/xr_menu_input.cpp",
+    "original": "app/src/main/cpp/xr_menu_input.cpp",
+    "unchanged": true,
+    "sha256_lf_normalized_text_or_binary": "c78c641a44598c77ff52eb33d2b49e8b227b5d797a8c9dd70d9b326de0ae93aa"
+  },
+  {
+    "path": "adapters/vulkan/xr_menu_input.h",
+    "original": "app/src/main/cpp/xr_menu_input.h",
+    "unchanged": true,
+    "sha256_lf_normalized_text_or_binary": "c461234bbff304ecaa03fbc42c2eff71c18e9fac59df0ce9bc167d4698dfac19"
+  }
+]

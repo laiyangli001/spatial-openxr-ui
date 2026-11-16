@@ -1,0 +1,300 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="ui_home" formatted="false">首页</string>
+    <string name="ui_return_home" formatted="false">主页</string>
+    <string name="ui_exit_app" formatted="false">退出应用</string>
+    <string name="ui_browser" formatted="false">浏览器</string>
+    <string name="ui_video" formatted="false">视频</string>
+    <string name="ui_gallery" formatted="false">图片</string>
+    <string name="ui_streaming" formatted="false">串流</string>
+    <string name="ui_settings" formatted="false">设置</string>
+    <string name="ui_home_title" formatted="false">Moonlight XR 首页</string>
+    <string name="ui_home_subtitle" formatted="false">选择要打开的空间内容</string>
+    <string name="ui_stream_subtitle" formatted="false">PICO 远程串流</string>
+    <string name="ui_connect" formatted="false">连接</string>
+    <string name="ui_apps_desktop" formatted="false">应用 · 桌面</string>
+    <string name="ui_select_server" formatted="false">选择服务器</string>
+    <string name="ui_open_streaming" formatted="false">打开串流</string>
+    <string name="ui_screen" formatted="false">屏幕</string>
+    <string name="ui_basic" formatted="false">基本</string>
+    <string name="ui_multi_display" formatted="false">多显示器</string>
+    <string name="ui_ai3d" formatted="false">AI 3D</string>
+    <string name="ui_picture" formatted="false">画面</string>
+    <string name="ui_controls" formatted="false">控制</string>
+    <string name="ui_advanced" formatted="false">高级</string>
+    <string name="ui_display_space" formatted="false">显示与空间</string>
+    <string name="ui_processing_performance" formatted="false">处理与性能</string>
+    <string name="ui_input" formatted="false">输入</string>
+    <string name="ui_screen_summary" formatted="false">背景、曲面、尺寸</string>
+    <string name="ui_basic_summary" formatted="false">背景、串流与外观</string>
+    <string name="ui_layout_summary" formatted="false">布局与预设</string>
+    <string name="ui_picture_summary" formatted="false">亮度、锐化、模糊</string>
+    <string name="ui_ai_summary" formatted="false">模型与立体视图</string>
+    <string name="ui_advanced_summary" formatted="false">高级参数与性能</string>
+    <string name="ui_controls_summary" formatted="false">手柄与光标</string>
+    <string name="ui_display_mode" formatted="false">显示模式</string>
+    <string name="ui_passthrough" formatted="false">透视</string>
+    <string name="ui_sbs" formatted="false">SBS</string>
+    <string name="ui_curve" formatted="false">曲面</string>
+    <string name="ui_environment" formatted="false">环境</string>
+    <string name="ui_background" formatted="false">背景</string>
+    <string name="ui_screen_layout" formatted="false">屏幕布局</string>
+    <string name="ui_screen_preset" formatted="false">屏幕预设</string>
+    <string name="ui_screen_size" formatted="false">屏幕尺寸</string>
+    <string name="ui_display_layout" formatted="false">显示布局</string>
+    <string name="ui_not_connected" formatted="false">未连接</string>
+    <string name="ui_presets" formatted="false">预设</string>
+    <string name="ui_save_preset" formatted="false">保存预设</string>
+    <string name="ui_delete_preset" formatted="false">删除预设</string>
+    <string name="ui_generation_models" formatted="false">生成与模型</string>
+    <string name="ui_enable_ai3d" formatted="false">启用 AI 3D</string>
+    <string name="ui_type" formatted="false">类型</string>
+    <string name="ui_model" formatted="false">模型</string>
+    <string name="ui_algorithm" formatted="false">算法</string>
+    <string name="ui_stereo_view" formatted="false">立体视图</string>
+    <string name="ui_eye_order" formatted="false">左右眼顺序</string>
+    <string name="ui_separation" formatted="false">分离度</string>
+    <string name="ui_convergence" formatted="false">会聚</string>
+    <string name="ui_depth_processing" formatted="false">深度处理</string>
+    <string name="ui_depth_strength" formatted="false">深度强度</string>
+    <string name="ui_depth_smoothing" formatted="false">深度平滑</string>
+    <string name="ui_depth_preview" formatted="false">查看深度图</string>
+    <string name="ui_performance_timing" formatted="false">性能与时序</string>
+    <string name="ui_depth_sync" formatted="false">深度同步</string>
+    <string name="ui_ai_priority" formatted="false">AI 优先级</string>
+    <string name="ui_depth_rate_limit" formatted="false">生成频率上限</string>
+    <string name="ui_reset_ai" formatted="false">重置 AI 参数</string>
+    <string name="ui_cursor" formatted="false">光标</string>
+    <string name="ui_cursor_type" formatted="false">光标类型</string>
+    <string name="ui_cursor_smoothing" formatted="false">光标稳定</string>
+    <string name="ui_input_mode" formatted="false">输入方式</string>
+    <string name="ui_button_mapping" formatted="false">按键映射</string>
+    <string name="ui_device_mode" formatted="false">设备模式</string>
+    <string name="ui_alternate_input" formatted="false">替代操作</string>
+    <string name="ui_primary_hand" formatted="false">主手</string>
+    <string name="ui_feedback_audio" formatted="false">反馈与音频</string>
+    <string name="ui_audio_feedback">提示音</string>
+    <string name="ui_controller_haptics" formatted="false">手柄振动</string>
+    <string name="ui_volume" formatted="false">音量</string>
+    <string name="ui_image_detail" formatted="false">图像细节</string>
+    <string name="ui_sharpness" formatted="false">锐化</string>
+    <string name="ui_blur" formatted="false">模糊</string>
+    <string name="ui_color_tone" formatted="false">色彩与明暗</string>
+    <string name="ui_brightness" formatted="false">亮度</string>
+    <string name="ui_contrast" formatted="false">对比度</string>
+    <string name="ui_gamma" formatted="false">伽马</string>
+    <string name="ui_saturation" formatted="false">颜色</string>
+    <string name="ui_reset_picture" formatted="false">重置画面参数</string>
+    <string name="ui_appearance" formatted="false">外观</string>
+    <string name="ui_theme" formatted="false">界面主题</string>
+    <string name="ui_panel_background" formatted="false">面板背景</string>
+    <string name="ui_menu_layout" formatted="false">菜单布局</string>
+    <string name="ui_moonlight_blue" formatted="false">月光蓝</string>
+    <string name="ui_frosted" formatted="false">透明 · 雾面</string>
+    <string name="ui_opaque" formatted="false">不透明</string>
+    <string name="ui_performance" formatted="false">性能</string>
+    <string name="ui_bitrate" formatted="false">串流码率 Mbps</string>
+    <string name="ui_stream_settings" formatted="false">串流设置</string>
+    <string name="ui_stream_fps" formatted="false">目标帧率</string>
+    <string name="ui_stream_resolution" formatted="false">分辨率</string>
+    <string name="ui_audio_channels" formatted="false">音频声道</string>
+    <string name="ui_codec_preference" formatted="false">编码偏好</string>
+    <string name="ui_idle_disconnect" formatted="false">空闲断开</string>
+    <string name="ui_auto_reconnect" formatted="false">自动重连</string>
+    <string name="ui_quick_start" formatted="false">快速启动</string>
+    <string name="ui_stereo" formatted="false">立体声</string>
+    <string name="ui_channels_51" formatted="false">5.1 声道</string>
+    <string name="ui_channels_71" formatted="false">7.1 声道</string>
+    <string name="ui_codec_h264" formatted="false">优先 H.264</string>
+    <string name="ui_codec_hevc" formatted="false">优先 HEVC（若支持）</string>
+    <string name="ui_reset_settings" formatted="false">重置参数</string>
+    <string name="ui_black" formatted="false">黑色</string>
+    <string name="ui_hdr_aurora" formatted="false">HDR 极光</string>
+    <string name="ui_hdr_cloud" formatted="false">HDR 云海</string>
+    <string name="ui_hdr_cartoon" formatted="false">HDR 卡通</string>
+    <string name="ui_hdr_lakeside" formatted="false">HDR 湖畔</string>
+    <string name="ui_hdr_skycloud" formatted="false">HDR 天空</string>
+    <string name="ui_hdr_space" formatted="false">HDR 太空</string>
+    <string name="ui_hex_menu" formatted="false">六边形菜单</string>
+    <string name="ui_flat_menu" formatted="false">平面菜单</string>
+    <string name="ui_single_screen" formatted="false">单屏</string>
+    <string name="ui_dual_screen" formatted="false">双屏</string>
+    <string name="ui_triple_screen" formatted="false">三屏</string>
+    <string name="ui_near_distance" formatted="false">近距离</string>
+    <string name="ui_standard_distance" formatted="false">标准距离</string>
+    <string name="ui_cinema_distance" formatted="false">影院距离</string>
+    <string name="ui_far_distance" formatted="false">远距离</string>
+    <string name="ui_automatic" formatted="false">自动</string>
+    <string name="ui_direct_shift" formatted="false">平移算法</string>
+    <string name="ui_off" formatted="false">关闭</string>
+    <string name="ui_half" formatted="false">半幅</string>
+    <string name="ui_full" formatted="false">全幅</string>
+    <string name="ui_half_sbs" formatted="false">半宽 SBS</string>
+    <string name="ui_full_sbs" formatted="false">全宽 SBS</string>
+    <string name="ui_parallax_algorithm" formatted="false">视差算法</string>
+    <string name="ui_ai_distill_224" formatted="false">Distill-224</string>
+    <string name="ui_ai_zipdepth_384" formatted="false">ZipDepth-384</string>
+    <string name="ui_ai_zipdepth_512" formatted="false">ZipDepth-512</string>
+    <string name="ui_flat" formatted="false">平面</string>
+    <string name="ui_slight" formatted="false">轻曲</string>
+    <string name="ui_curved" formatted="false">曲面</string>
+    <string name="ui_still" formatted="false">静态</string>
+    <string name="ui_movie" formatted="false">电影</string>
+    <string name="ui_normal" formatted="false">正常</string>
+    <string name="ui_crossed" formatted="false">交叉</string>
+    <string name="ui_gaussian" formatted="false">高斯</string>
+    <string name="ui_color_guided" formatted="false">颜色引导</string>
+    <string name="ui_boost" formatted="false">提升</string>
+    <string name="ui_auto" formatted="false">自动</string>
+    <string name="ui_circle" formatted="false">圆形</string>
+    <string name="ui_pointer" formatted="false">箭头</string>
+    <string name="ui_low" formatted="false">低</string>
+    <string name="ui_high" formatted="false">高</string>
+    <string name="ui_pad_hand" formatted="false">手柄</string>
+    <string name="ui_pad_abxy" formatted="false">ABXY 手柄</string>
+    <string name="ui_kbm" formatted="false">键盘鼠标</string>
+    <string name="ui_head" formatted="false">头部</string>
+    <string name="ui_tilt" formatted="false">倾斜</string>
+    <string name="ui_none" formatted="false">无</string>
+    <string name="ui_right" formatted="false">右手</string>
+    <string name="ui_left" formatted="false">左手</string>
+    <string name="ui_cancel" formatted="false">取消</string>
+    <string name="ui_confirm" formatted="false">确定</string>
+    <string name="ui_close" formatted="false">关闭</string>
+    <string name="ui_got_it" formatted="false">知道了</string>
+    <string name="ui_confirm_action" formatted="false">确认操作</string>
+    <string name="ui_confirm_message" formatted="false">请选择要执行的操作。</string>
+    <string name="ui_exit_title" formatted="false">退出 Moonlight XR？</string>
+    <string name="ui_exit_message" formatted="false">确认后将关闭应用，返回头显主页。</string>
+    <string name="ui_confirm_reset" formatted="false">确认重置</string>
+    <string name="ui_all_settings" formatted="false">全部参数</string>
+    <string name="ui_ai_settings" formatted="false">AI 3D 参数</string>
+    <string name="ui_picture_settings" formatted="false">画面参数</string>
+    <string name="ui_disabled" formatted="false">关</string>
+    <string name="ui_half_label" formatted="false">半幅</string>
+    <string name="ui_full_label" formatted="false">全幅</string>
+    <string name="ui_flat_label" formatted="false">平面</string>
+    <string name="ui_slight_label" formatted="false">轻曲</string>
+    <string name="ui_spatial_popup" formatted="false">空间弹窗</string>
+    <string name="ui_independent_quad" formatted="false">独立 Quad · 可点击</string>
+    <string name="ui_spatial_subwindow" formatted="false">空间侧窗</string>
+    <string name="ui_same_xr_frame" formatted="false">同一 XR 帧提交</string>
+    <string name="ui_spatial_augment" formatted="false">空间附着信息</string>
+    <string name="ui_search" formatted="false">搜索</string>
+    <string name="ui_copy" formatted="false">复制</string>
+    <string name="ui_cut" formatted="false">剪切</string>
+    <string name="ui_paste" formatted="false">粘贴</string>
+    <string name="ui_select_all" formatted="false">全选</string>
+    <string name="ui_time" formatted="false">时间</string>
+    <string name="ui_hours" formatted="false">小时</string>
+    <string name="ui_minutes" formatted="false">分钟</string>
+    <string name="ui_seconds" formatted="false">秒</string>
+    <string name="help_basic" formatted="false">调整环境、屏幕、串流与外观设置。</string>
+    <string name="help_multi_display" formatted="false">管理多个屏幕的布局和预设；可用功能取决于已连接的主机。</string>
+    <string name="help_ai3d" formatted="false">选择深度模型与立体算法，并调整立体视图和深度处理。</string>
+    <string name="help_picture" formatted="false">调整锐化、模糊、亮度、对比度、伽马和颜色。</string>
+    <string name="help_controls" formatted="false">调整光标、输入映射、主手和手柄反馈。</string>
+    <string name="help_advanced" formatted="false">配置高级串流参数、性能诊断和重置操作。</string>
+    <string name="help_passthrough" formatted="false">切换现实透视背景；需要设备运行时支持 Passthrough。</string>
+    <string name="help_background" formatted="false">选择透视关闭时显示的虚拟背景。</string>
+    <string name="help_sbs" formatted="false">关闭使用单目画面；半幅和全幅分别用于半宽、全宽左右并排立体内容。</string>
+    <string name="help_curve" formatted="false">选择平面、轻度弯曲或曲面屏幕。</string>
+    <string name="help_screen_preset" formatted="false">选择已保存的屏幕组合和摆放方案。</string>
+    <string name="help_screen_size" formatted="false">调整屏幕尺寸；使用加减号可逐步微调。</string>
+    <string name="help_enable_ai3d" formatted="false">根据输入画面生成深度信息，再合成左右眼立体视图。</string>
+    <string name="help_type" formatted="false">静态适合静态内容；电影用于连续变化的视频内容。</string>
+    <string name="help_model" formatted="false">选择深度模型；实际可用项由设备能力和已安装资源决定。</string>
+    <string name="help_algorithm" formatted="false">平移算法：按深度直接移动像素。\nParallax：偏移图搜索与迭代校正。</string>
+    <string name="help_eye_order" formatted="false">正常使用正常左右眼顺序；交叉交换双眼图像。</string>
+    <string name="help_separation" formatted="false">调整左右眼视差强度。过大可能造成不适，建议从较低值逐步增加。</string>
+    <string name="help_convergence" formatted="false">调整画面中的零视差位置，改变内容位于屏幕前方或后方的范围。</string>
+    <string name="help_depth_strength" formatted="false">调整深度信息对立体效果的影响程度。</string>
+    <string name="help_depth_smoothing" formatted="false">高斯平滑深度噪声；颜色引导参考颜色边缘处理深度。</string>
+    <string name="help_depth_preview" formatted="false">在屏幕中显示深度信息，便于检查模型对前景和背景的判断。</string>
+    <string name="help_depth_sync" formatted="false">控制深度结果与视频画面的同步方式，平衡时序一致性与延迟。</string>
+    <string name="help_ai_priority" formatted="false">调整深度计算的调度优先级；提高优先级可能增加资源占用。</string>
+    <string name="help_depth_rate_limit" formatted="false">限制每秒生成深度图的次数，平衡流畅度、功耗与温度。</string>
+    <string name="help_cursor_type" formatted="false">选择圆形光圈或箭头指针。</string>
+    <string name="help_cursor_smoothing" formatted="false">平滑射线指针的细微抖动；较强的稳定可能增加响应延迟。</string>
+    <string name="help_button_mapping" formatted="false">启用手柄按键到远程输入的映射。</string>
+    <string name="help_device_mode" formatted="false">选择手柄或键盘鼠标的输入方式。</string>
+    <string name="help_alternate_input" formatted="false">选择头部或倾斜输入等替代控制方式。</string>
+    <string name="help_primary_hand" formatted="false">选择优先用于指向和操作的手柄。</string>
+    <string name="help_controller_haptics" formatted="false">启用支持设备的振动反馈。</string>
+    <string name="help_audio_feedback" formatted="false">激光扫过控件时播放短促提示音；与手柄振动分别控制。</string>
+    <string name="help_volume" formatted="false">调整媒体播放音量。</string>
+    <string name="help_sharpness" formatted="false">0–5 档，0 为关闭。增强图像细节和边缘；过高可能产生光晕。</string>
+    <string name="help_blur" formatted="false">0–5 档，0 为关闭。柔化图像与高频噪声；过高会降低细节清晰度。</string>
+    <string name="help_brightness" formatted="false">调整整体明暗；100% 为默认强度。</string>
+    <string name="help_contrast" formatted="false">调整亮部与暗部的差异；100% 为默认强度。</string>
+    <string name="help_gamma" formatted="false">调整中间调；100% 为默认强度。</string>
+    <string name="help_saturation" formatted="false">调整颜色饱和度；100% 为默认强度。</string>
+    <string name="help_theme" formatted="false">在月光蓝和 PICO 风格浅色主题之间切换。</string>
+    <string name="help_panel_background" formatted="false">透明雾面可透出背后内容；不透明背景提高遮挡和对比度。当前雾纹不会实时模糊背后场景。</string>
+    <string name="help_menu_layout" formatted="false">选择六边形快捷菜单或按分类分组的平面菜单。</string>
+    <string name="help_bitrate" formatted="false">设置视频传输码率。较高码率需要更稳定的网络带宽。</string>
+    <string name="help_stream_settings" formatted="false">配置 Moonlight 串流请求和连接行为。</string>
+    <string name="help_stream_fps" formatted="false">设置串流目标帧率；更改后需要重新协商串流。</string>
+    <string name="help_stream_resolution" formatted="false">选择 Moonlight 串流分辨率缩放比例。</string>
+    <string name="help_audio_channels" formatted="false">选择立体声、5.1 或 7.1 声道输出。</string>
+    <string name="help_codec_preference" formatted="false">设置 H.264/HEVC 偏好，最终格式受主机与解码器能力限制。</string>
+    <string name="help_idle_disconnect" formatted="false">设置空闲多久后自动断开串流。</string>
+    <string name="help_auto_reconnect" formatted="false">连接意外中断后自动尝试恢复。</string>
+    <string name="help_quick_start" formatted="false">启动时尝试快速进入上次使用的主机和应用。</string>
+    <string name="ui_settings_title">%1$s 设置</string>
+    <string name="ui_reset_title">重置%1$s</string>
+    <string name="ui_reset_message">仅恢复%1$s默认值；界面主题保持不变。</string>
+    <string name="ui_quick_3d">3D · %1$s</string>
+    <string name="ui_quick_screen">屏幕 · %1$s</string>
+    <string name="ui_parameter_help">%1$s，参数说明</string>
+    <string name="ui_remove">移除 %1$s</string>
+    <string name="ui_page_number">第 %1$d 页</string>
+    <string name="ui_calendar_month_pattern">yyyy年M月</string>
+    <string name="app_name">Moonlight XR 界面原型</string>
+    <string name="ui_xr_performance">XR 性能</string>
+    <string name="ui_frame_submission_fps">应用提交：%1$.1f FPS</string>
+    <string name="ui_runtime_cadence_hz">运行时节拍：%1$.1f Hz</string>
+    <string name="ui_runtime_cadence_unknown">运行时节拍不可用</string>
+    <string name="ui_controller_guide">操作指南</string>
+    <string name="ui_guide_b">右手 B 键（松开）</string>
+    <string name="ui_guide_hud_cycle">FPS → FPS + 指南 → 隐藏</string>
+    <string name="ui_show_controller_guide">显示操作指南</string>
+    <string name="ui_guide_trigger">指向控件 + Trigger</string>
+    <string name="ui_guide_click">点击控件</string>
+    <string name="ui_guide_empty_trigger">指向空白处 + Trigger</string>
+    <string name="ui_guide_menu">显示 / 隐藏菜单</string>
+    <string name="ui_guide_left_grip">左手 Grip + 移动</string>
+    <string name="ui_guide_planar_drag">沿面板自身平面拖动</string>
+    <string name="ui_guide_right_grip">右手 Grip + 移动</string>
+    <string name="ui_guide_orbit_drag">围绕头部转动</string>
+    <string name="ui_guide_grip_horizontal">Grip + 摇杆左右</string>
+    <string name="ui_guide_scale">缩放指向的面板</string>
+    <string name="ui_guide_grip_vertical">Grip + 摇杆前后</string>
+    <string name="ui_guide_distance">调节距离（1–10 米）</string>
+    <string name="ui_guide_stick_vertical">指向列表 + 摇杆上下</string>
+    <string name="ui_guide_scroll">滚动（松开 Grip / Trigger）</string>
+    <string name="ui_hud_work">帧工作 %1$.1f ms · P95 %2$.1f ms</string>
+    <string name="ui_hud_scene">Filament 场景耗时 %1$.1f ms</string>
+    <string name="ui_hud_interval">提交帧间隔 %1$.1f ms</string>
+    <string name="ui_b_hint_title">B 键</string>
+    <string name="ui_b_hint_body">松开：FPS → 指南 → 隐藏</string>
+    <string name="ui_hud_fps_label">应用提交</string>
+    <string name="ui_hud_hz_label">运行时节拍</string>
+    <string name="ui_hud_work_label">帧工作</string>
+    <string name="ui_hud_scene_label">Filament 场景耗时</string>
+    <string name="ui_hud_interval_label">提交帧间隔</string>
+    <string name="ui_model_display">模型显示</string>
+    <string name="ui_model_msaa">模型 MSAA</string>
+    <string name="ui_model_render_scale">模型渲染倍率</string>
+    <string name="ui_runtime_sharpening">运行时锐化</string>
+    <string name="ui_runtime_sharpening_supported">运行时支持锐化</string>
+    <string name="ui_runtime_sharpening_unsupported">运行时不支持锐化</string>
+    <string name="help_model_msaa">调整 3D 图标和手柄模型的多重采样抗锯齿。2×、4× 可减少几何边缘锯齿，也会增加 GPU 开销；不影响菜单文字。</string>
+    <string name="help_model_render_scale">提高 3D 图标和手柄的内部渲染分辨率。1.5× 使用 2.25 倍像素，2.0× 使用 4 倍像素。超过 OpenXR 图层尺寸上限时，先高分辨率渲染再缩小提交；下方分别显示内部和图层尺寸。更高倍率会增加 GPU 开销。</string>
+    <string name="help_runtime_sharpening">仅在运行时支持并启用 XR_FB_composition_layer_settings 时可用。向合成器请求对模型层锐化，关闭后不提交锐化标志；不等同于视频锐化或增加分辨率。</string>
+    <string name="ui_panel_placement">面板位置</string>
+    <string name="ui_panel_fixed">固定</string>
+    <string name="ui_panel_follow">跟随头显</string>
+    <string name="ui_panel_adjustment">距离 %1$.2f m · 尺寸 %2$.2f × %3$.2f m</string>
+    <string name="help_panel_placement">固定：面板锚定在房间坐标。跟随头显：头部移动超过20厘米并持续250毫秒后，面板平滑跟随位置。手柄调整时暂停跟随。</string>
+</resources>

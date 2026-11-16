@@ -1,0 +1,300 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="ui_home" formatted="false">Home</string>
+    <string name="ui_return_home" formatted="false">Home</string>
+    <string name="ui_exit_app" formatted="false">Exit app</string>
+    <string name="ui_browser" formatted="false">Browser</string>
+    <string name="ui_video" formatted="false">Video</string>
+    <string name="ui_gallery" formatted="false">Gallery</string>
+    <string name="ui_streaming" formatted="false">Streaming</string>
+    <string name="ui_settings" formatted="false">Settings</string>
+    <string name="ui_home_title" formatted="false">Moonlight XR Home</string>
+    <string name="ui_home_subtitle" formatted="false">Choose a spatial experience</string>
+    <string name="ui_stream_subtitle" formatted="false">Moonlight streaming for PICO</string>
+    <string name="ui_connect" formatted="false">Connect</string>
+    <string name="ui_apps_desktop" formatted="false">Apps · Desktop</string>
+    <string name="ui_select_server" formatted="false">Select server</string>
+    <string name="ui_open_streaming" formatted="false">Streaming</string>
+    <string name="ui_screen" formatted="false">Screen</string>
+    <string name="ui_basic" formatted="false">Basic</string>
+    <string name="ui_multi_display" formatted="false">Displays</string>
+    <string name="ui_ai3d" formatted="false">AI 3D</string>
+    <string name="ui_picture" formatted="false">Picture</string>
+    <string name="ui_controls" formatted="false">Controls</string>
+    <string name="ui_advanced" formatted="false">Advanced</string>
+    <string name="ui_display_space" formatted="false">Display and space</string>
+    <string name="ui_processing_performance" formatted="false">Processing and performance</string>
+    <string name="ui_input" formatted="false">Input</string>
+    <string name="ui_screen_summary" formatted="false">Environment, shape, size</string>
+    <string name="ui_basic_summary" formatted="false">Environment, streaming, appearance</string>
+    <string name="ui_layout_summary" formatted="false">Layouts and presets</string>
+    <string name="ui_picture_summary" formatted="false">Brightness, sharpness, blur</string>
+    <string name="ui_ai_summary" formatted="false">Models and stereo views</string>
+    <string name="ui_advanced_summary" formatted="false">Advanced parameters and performance</string>
+    <string name="ui_controls_summary" formatted="false">Controllers and cursor</string>
+    <string name="ui_display_mode" formatted="false">Display mode</string>
+    <string name="ui_passthrough" formatted="false">Passthrough</string>
+    <string name="ui_sbs" formatted="false">SBS</string>
+    <string name="ui_curve" formatted="false">Screen shape</string>
+    <string name="ui_environment" formatted="false">Environment</string>
+    <string name="ui_background" formatted="false">Background</string>
+    <string name="ui_screen_layout" formatted="false">Screen layout</string>
+    <string name="ui_screen_preset" formatted="false">Screen preset</string>
+    <string name="ui_screen_size" formatted="false">Screen size</string>
+    <string name="ui_display_layout" formatted="false">Display layout</string>
+    <string name="ui_not_connected" formatted="false">Not connected</string>
+    <string name="ui_presets" formatted="false">Presets</string>
+    <string name="ui_save_preset" formatted="false">Save preset</string>
+    <string name="ui_delete_preset" formatted="false">Delete preset</string>
+    <string name="ui_generation_models" formatted="false">Generation and models</string>
+    <string name="ui_enable_ai3d" formatted="false">Enable AI 3D</string>
+    <string name="ui_type" formatted="false">Type</string>
+    <string name="ui_model" formatted="false">Model</string>
+    <string name="ui_algorithm" formatted="false">Algorithm</string>
+    <string name="ui_stereo_view" formatted="false">Stereo view</string>
+    <string name="ui_eye_order" formatted="false">Eye order</string>
+    <string name="ui_separation" formatted="false">Separation</string>
+    <string name="ui_convergence" formatted="false">Convergence</string>
+    <string name="ui_depth_processing" formatted="false">Depth processing</string>
+    <string name="ui_depth_strength" formatted="false">Depth strength</string>
+    <string name="ui_depth_smoothing" formatted="false">Depth smoothing</string>
+    <string name="ui_depth_preview" formatted="false">Show depth map</string>
+    <string name="ui_performance_timing" formatted="false">Performance and timing</string>
+    <string name="ui_depth_sync" formatted="false">Depth sync</string>
+    <string name="ui_ai_priority" formatted="false">AI priority</string>
+    <string name="ui_depth_rate_limit" formatted="false">Depth rate limit</string>
+    <string name="ui_reset_ai" formatted="false">Reset AI settings</string>
+    <string name="ui_cursor" formatted="false">Cursor</string>
+    <string name="ui_cursor_type" formatted="false">Cursor type</string>
+    <string name="ui_cursor_smoothing" formatted="false">Cursor smoothing</string>
+    <string name="ui_input_mode" formatted="false">Input mode</string>
+    <string name="ui_button_mapping" formatted="false">Button mapping</string>
+    <string name="ui_device_mode" formatted="false">Device mode</string>
+    <string name="ui_alternate_input" formatted="false">Alternative input</string>
+    <string name="ui_primary_hand" formatted="false">Primary hand</string>
+    <string name="ui_feedback_audio" formatted="false">Feedback and audio</string>
+    <string name="ui_audio_feedback">UI sound</string>
+    <string name="ui_controller_haptics" formatted="false">Controller vibration</string>
+    <string name="ui_volume" formatted="false">Volume</string>
+    <string name="ui_image_detail" formatted="false">Image detail</string>
+    <string name="ui_sharpness" formatted="false">Sharpness</string>
+    <string name="ui_blur" formatted="false">Blur</string>
+    <string name="ui_color_tone" formatted="false">Color and tone</string>
+    <string name="ui_brightness" formatted="false">Brightness</string>
+    <string name="ui_contrast" formatted="false">Contrast</string>
+    <string name="ui_gamma" formatted="false">Gamma</string>
+    <string name="ui_saturation" formatted="false">Saturation</string>
+    <string name="ui_reset_picture" formatted="false">Reset picture settings</string>
+    <string name="ui_appearance" formatted="false">Appearance</string>
+    <string name="ui_theme" formatted="false">Theme</string>
+    <string name="ui_panel_background" formatted="false">Panel background</string>
+    <string name="ui_menu_layout" formatted="false">Menu layout</string>
+    <string name="ui_moonlight_blue" formatted="false">Moonlight blue</string>
+    <string name="ui_frosted" formatted="false">Translucent · Frosted</string>
+    <string name="ui_opaque" formatted="false">Opaque</string>
+    <string name="ui_performance" formatted="false">Performance</string>
+    <string name="ui_bitrate" formatted="false">Bitrate (Mbps)</string>
+    <string name="ui_stream_settings" formatted="false">Streaming settings</string>
+    <string name="ui_stream_fps" formatted="false">Target frame rate</string>
+    <string name="ui_stream_resolution" formatted="false">Resolution scale</string>
+    <string name="ui_audio_channels" formatted="false">Audio channels</string>
+    <string name="ui_codec_preference" formatted="false">Codec preference</string>
+    <string name="ui_idle_disconnect" formatted="false">Idle disconnect</string>
+    <string name="ui_auto_reconnect" formatted="false">Auto reconnect</string>
+    <string name="ui_quick_start" formatted="false">Quick start</string>
+    <string name="ui_stereo" formatted="false">Stereo</string>
+    <string name="ui_channels_51" formatted="false">5.1 surround</string>
+    <string name="ui_channels_71" formatted="false">7.1 surround</string>
+    <string name="ui_codec_h264" formatted="false">H.264 preferred</string>
+    <string name="ui_codec_hevc" formatted="false">HEVC preferred (if supported)</string>
+    <string name="ui_reset_settings" formatted="false">Reset settings</string>
+    <string name="ui_black" formatted="false">Black</string>
+    <string name="ui_hdr_aurora" formatted="false">HDR Aurora</string>
+    <string name="ui_hdr_cloud" formatted="false">HDR Cloud</string>
+    <string name="ui_hdr_cartoon" formatted="false">HDR Cartoon</string>
+    <string name="ui_hdr_lakeside" formatted="false">HDR Lakeside</string>
+    <string name="ui_hdr_skycloud" formatted="false">HDR Sky and Clouds</string>
+    <string name="ui_hdr_space" formatted="false">HDR Space</string>
+    <string name="ui_hex_menu" formatted="false">Hexagonal menu</string>
+    <string name="ui_flat_menu" formatted="false">Flat menu</string>
+    <string name="ui_single_screen" formatted="false">Single screen</string>
+    <string name="ui_dual_screen" formatted="false">Dual screen</string>
+    <string name="ui_triple_screen" formatted="false">Triple screen</string>
+    <string name="ui_near_distance" formatted="false">Near distance</string>
+    <string name="ui_standard_distance" formatted="false">Standard distance</string>
+    <string name="ui_cinema_distance" formatted="false">Cinema distance</string>
+    <string name="ui_far_distance" formatted="false">Far distance</string>
+    <string name="ui_automatic" formatted="false">Automatic</string>
+    <string name="ui_direct_shift" formatted="false">Direct shift</string>
+    <string name="ui_off" formatted="false">Off</string>
+    <string name="ui_half" formatted="false">Half</string>
+    <string name="ui_full" formatted="false">Full</string>
+    <string name="ui_half_sbs" formatted="false">Half-SBS</string>
+    <string name="ui_full_sbs" formatted="false">Full-SBS</string>
+    <string name="ui_parallax_algorithm" formatted="false">Parallax algorithm</string>
+    <string name="ui_ai_distill_224" formatted="false">Distill-224</string>
+    <string name="ui_ai_zipdepth_384" formatted="false">ZipDepth-384</string>
+    <string name="ui_ai_zipdepth_512" formatted="false">ZipDepth-512</string>
+    <string name="ui_flat" formatted="false">Flat</string>
+    <string name="ui_slight" formatted="false">Slight curve</string>
+    <string name="ui_curved" formatted="false">Curved</string>
+    <string name="ui_still" formatted="false">Still</string>
+    <string name="ui_movie" formatted="false">Movie</string>
+    <string name="ui_normal" formatted="false">Normal</string>
+    <string name="ui_crossed" formatted="false">Crossed</string>
+    <string name="ui_gaussian" formatted="false">Gaussian</string>
+    <string name="ui_color_guided" formatted="false">Color guided</string>
+    <string name="ui_boost" formatted="false">Boost</string>
+    <string name="ui_auto" formatted="false">Auto</string>
+    <string name="ui_circle" formatted="false">Circle</string>
+    <string name="ui_pointer" formatted="false">Pointer</string>
+    <string name="ui_low" formatted="false">Low</string>
+    <string name="ui_high" formatted="false">High</string>
+    <string name="ui_pad_hand" formatted="false">Hand controller</string>
+    <string name="ui_pad_abxy" formatted="false">ABXY controller</string>
+    <string name="ui_kbm" formatted="false">Keyboard and mouse</string>
+    <string name="ui_head" formatted="false">Head</string>
+    <string name="ui_tilt" formatted="false">Tilt</string>
+    <string name="ui_none" formatted="false">None</string>
+    <string name="ui_right" formatted="false">Right</string>
+    <string name="ui_left" formatted="false">Left</string>
+    <string name="ui_cancel" formatted="false">Cancel</string>
+    <string name="ui_confirm" formatted="false">OK</string>
+    <string name="ui_close" formatted="false">Close</string>
+    <string name="ui_got_it" formatted="false">Got it</string>
+    <string name="ui_confirm_action" formatted="false">Confirm action</string>
+    <string name="ui_confirm_message" formatted="false">Choose an action to continue.</string>
+    <string name="ui_exit_title" formatted="false">Exit Moonlight XR?</string>
+    <string name="ui_exit_message" formatted="false">Close the app and return to the headset home.</string>
+    <string name="ui_confirm_reset" formatted="false">Reset</string>
+    <string name="ui_all_settings" formatted="false">all settings</string>
+    <string name="ui_ai_settings" formatted="false">AI 3D settings</string>
+    <string name="ui_picture_settings" formatted="false">picture settings</string>
+    <string name="ui_disabled" formatted="false">Off</string>
+    <string name="ui_half_label" formatted="false">Half</string>
+    <string name="ui_full_label" formatted="false">Full</string>
+    <string name="ui_flat_label" formatted="false">Flat</string>
+    <string name="ui_slight_label" formatted="false">Slight curve</string>
+    <string name="ui_spatial_popup" formatted="false">Spatial popup</string>
+    <string name="ui_independent_quad" formatted="false">Independent Quad · Interactive</string>
+    <string name="ui_spatial_subwindow" formatted="false">Spatial subwindow</string>
+    <string name="ui_same_xr_frame" formatted="false">Submitted in the same XR frame</string>
+    <string name="ui_spatial_augment" formatted="false">Spatial augment</string>
+    <string name="ui_search" formatted="false">Search</string>
+    <string name="ui_copy" formatted="false">Copy</string>
+    <string name="ui_cut" formatted="false">Cut</string>
+    <string name="ui_paste" formatted="false">Paste</string>
+    <string name="ui_select_all" formatted="false">Select all</string>
+    <string name="ui_time" formatted="false">Time</string>
+    <string name="ui_hours" formatted="false">Hours</string>
+    <string name="ui_minutes" formatted="false">Minutes</string>
+    <string name="ui_seconds" formatted="false">Seconds</string>
+    <string name="help_basic" formatted="false">Adjust environment, screen, streaming, and appearance settings.</string>
+    <string name="help_multi_display" formatted="false">Manage screen layouts and presets. Available features depend on the connected host.</string>
+    <string name="help_ai3d" formatted="false">Choose a depth model and stereo algorithm, then adjust stereo views and depth processing.</string>
+    <string name="help_picture" formatted="false">Adjust sharpness, blur, brightness, contrast, gamma, and saturation.</string>
+    <string name="help_controls" formatted="false">Adjust the cursor, input mapping, primary hand, and controller feedback.</string>
+    <string name="help_advanced" formatted="false">Configure advanced streaming parameters, performance diagnostics, and resets.</string>
+    <string name="help_passthrough" formatted="false">Toggle the real-world passthrough background; runtime support is required.</string>
+    <string name="help_background" formatted="false">Choose the virtual background used when passthrough is off.</string>
+    <string name="help_sbs" formatted="false">Off displays a mono image. Half and Full display half-width and full-width side-by-side stereo content.</string>
+    <string name="help_curve" formatted="false">Choose a flat, slightly curved, or curved screen.</string>
+    <string name="help_screen_preset" formatted="false">Choose a saved screen arrangement.</string>
+    <string name="help_screen_size" formatted="false">Adjust the screen size. Use the minus and plus buttons for fine adjustments.</string>
+    <string name="help_enable_ai3d" formatted="false">Generate depth from the input image and synthesize stereo views for both eyes.</string>
+    <string name="help_type" formatted="false">Still suits static content. Movie suits continuously changing video.</string>
+    <string name="help_model" formatted="false">Choose a depth model. Available models depend on the device and installed assets.</string>
+    <string name="help_algorithm" formatted="false">Direct shift moves pixels using depth.\nParallax searches an offset map and applies iterative correction.</string>
+    <string name="help_eye_order" formatted="false">Normal keeps the usual eye order. Crossed swaps the left and right images.</string>
+    <string name="help_separation" formatted="false">Adjust stereo disparity. High values may cause discomfort; increase gradually from a low value.</string>
+    <string name="help_convergence" formatted="false">Adjust the zero-parallax plane to change how far content appears in front of or behind the screen.</string>
+    <string name="help_depth_strength" formatted="false">Adjust how strongly depth affects the stereo result.</string>
+    <string name="help_depth_smoothing" formatted="false">Gaussian smooths depth noise. Color guided smoothing follows color edges.</string>
+    <string name="help_depth_preview" formatted="false">Show depth information on the screen to inspect foreground and background estimates.</string>
+    <string name="help_depth_sync" formatted="false">Balance alignment between depth results and video frames against latency.</string>
+    <string name="help_ai_priority" formatted="false">Adjust depth-computation priority. Higher priority may increase resource use.</string>
+    <string name="help_depth_rate_limit" formatted="false">Limit depth maps per second to balance smoothness, power consumption, and temperature.</string>
+    <string name="help_cursor_type" formatted="false">Choose a circular cursor or an arrow pointer.</string>
+    <string name="help_cursor_smoothing" formatted="false">Smooth small ray movements. Stronger smoothing may add response delay.</string>
+    <string name="help_button_mapping" formatted="false">Map controller buttons to remote input.</string>
+    <string name="help_device_mode" formatted="false">Choose controller or keyboard-and-mouse input.</string>
+    <string name="help_alternate_input" formatted="false">Choose alternative controls such as head or tilt input.</string>
+    <string name="help_primary_hand" formatted="false">Choose the controller used primarily for pointing and interaction.</string>
+    <string name="help_controller_haptics" formatted="false">Enable vibration feedback on supported devices.</string>
+    <string name="help_audio_feedback" formatted="false">Play a short tone when the laser hovers over controls. Haptics are controlled separately.</string>
+    <string name="help_volume" formatted="false">Adjust media playback volume.</string>
+    <string name="help_sharpness" formatted="false">Levels 0–5; 0 is off. Enhance detail and edges. High levels may produce halos.</string>
+    <string name="help_blur" formatted="false">Levels 0–5; 0 is off. Soften the image and high-frequency noise. High levels reduce detail.</string>
+    <string name="help_brightness" formatted="false">Adjust overall brightness. The default strength is 100%.</string>
+    <string name="help_contrast" formatted="false">Adjust the difference between light and dark areas. The default strength is 100%.</string>
+    <string name="help_gamma" formatted="false">Adjust midtones. The default strength is 100%.</string>
+    <string name="help_saturation" formatted="false">Adjust color saturation. The default strength is 100%.</string>
+    <string name="help_theme" formatted="false">Switch between Moonlight blue and the PICO-style light theme.</string>
+    <string name="help_panel_background" formatted="false">The translucent frosted style reveals content behind the panel. Opaque panels provide more contrast. The frost texture does not blur the scene in real time.</string>
+    <string name="help_menu_layout" formatted="false">Choose a hexagonal shortcut menu or a flat menu grouped by category.</string>
+    <string name="help_bitrate" formatted="false">Set video bitrate. Higher bitrates require more stable network bandwidth.</string>
+    <string name="help_stream_settings" formatted="false">Configure the Moonlight streaming request and connection behavior.</string>
+    <string name="help_stream_fps" formatted="false">Set the requested stream frame rate; changing it requires stream renegotiation.</string>
+    <string name="help_stream_resolution" formatted="false">Set the requested stream resolution scale.</string>
+    <string name="help_audio_channels" formatted="false">Choose stereo, 5.1, or 7.1 audio output.</string>
+    <string name="help_codec_preference" formatted="false">Prefer H.264 or HEVC; the host and decoder capabilities make the final choice.</string>
+    <string name="help_idle_disconnect" formatted="false">Disconnect the stream after the selected idle period.</string>
+    <string name="help_auto_reconnect" formatted="false">Try to recover automatically after an unexpected disconnect.</string>
+    <string name="help_quick_start" formatted="false">Try to enter the last used host and application at startup.</string>
+    <string name="ui_settings_title">%1$s settings</string>
+    <string name="ui_reset_title">Reset %1$s</string>
+    <string name="ui_reset_message">Restore defaults for %1$s. The interface theme is retained.</string>
+    <string name="ui_quick_3d">3D · %1$s</string>
+    <string name="ui_quick_screen">Screen · %1$s</string>
+    <string name="ui_parameter_help">%1$s, setting information</string>
+    <string name="ui_remove">Remove %1$s</string>
+    <string name="ui_page_number">Page %1$d</string>
+    <string name="ui_calendar_month_pattern">LLLL yyyy</string>
+    <string name="app_name">Moonlight XR UI Prototype</string>
+    <string name="ui_xr_performance">XR performance</string>
+    <string name="ui_frame_submission_fps">App submissions: %1$.1f FPS</string>
+    <string name="ui_runtime_cadence_hz">Runtime timing: %1$.1f Hz</string>
+    <string name="ui_runtime_cadence_unknown">Runtime timing unavailable</string>
+    <string name="ui_controller_guide">Controller guide</string>
+    <string name="ui_guide_b">Right B (release)</string>
+    <string name="ui_guide_hud_cycle">FPS → FPS + guide → hidden</string>
+    <string name="ui_show_controller_guide">Show controller guide</string>
+    <string name="ui_guide_trigger">Point + Trigger</string>
+    <string name="ui_guide_click">Click a control</string>
+    <string name="ui_guide_empty_trigger">Trigger over empty space</string>
+    <string name="ui_guide_menu">Show / hide menu</string>
+    <string name="ui_guide_left_grip">Left Grip + move</string>
+    <string name="ui_guide_planar_drag">Drag in the panel plane</string>
+    <string name="ui_guide_right_grip">Right Grip + move</string>
+    <string name="ui_guide_orbit_drag">Orbit around your head</string>
+    <string name="ui_guide_grip_horizontal">Grip + stick left / right</string>
+    <string name="ui_guide_scale">Resize the pointed panel</string>
+    <string name="ui_guide_grip_vertical">Grip + stick forward / back</string>
+    <string name="ui_guide_distance">Move nearer / farther (1–10 m)</string>
+    <string name="ui_guide_stick_vertical">Point at list + stick up / down</string>
+    <string name="ui_guide_scroll">Scroll (release Grip / Trigger)</string>
+    <string name="ui_hud_work">Work %1$.1f ms · P95 %2$.1f ms</string>
+    <string name="ui_hud_scene">Filament wall time %1$.1f ms</string>
+    <string name="ui_hud_interval">Submission interval %1$.1f ms</string>
+    <string name="ui_b_hint_title">B button</string>
+    <string name="ui_b_hint_body">Release: FPS → guide → hide</string>
+    <string name="ui_hud_fps_label">App submission</string>
+    <string name="ui_hud_hz_label">Runtime cadence</string>
+    <string name="ui_hud_work_label">Frame work</string>
+    <string name="ui_hud_scene_label">Filament wall time</string>
+    <string name="ui_hud_interval_label">Submission interval</string>
+    <string name="ui_model_display">Model display</string>
+    <string name="ui_model_msaa">Model MSAA</string>
+    <string name="ui_model_render_scale">Model render scale</string>
+    <string name="ui_runtime_sharpening">Runtime sharpening</string>
+    <string name="ui_runtime_sharpening_supported">Runtime sharpening supported</string>
+    <string name="ui_runtime_sharpening_unsupported">Runtime sharpening unavailable</string>
+    <string name="help_model_msaa">Multisample anti-aliasing for 3D icons and controller models. 2x and 4x reduce geometry edge aliasing at additional GPU cost. Menu text is unchanged.</string>
+    <string name="help_model_render_scale">Scales internal rendering for 3D icons and controllers. 1.5x renders 2.25x pixels; 2.0x renders 4x. If the OpenXR layer limit is lower, the higher-resolution image is downsampled before submission. Internal and layer sizes are shown separately; higher values cost more GPU time.</string>
+    <string name="help_runtime_sharpening">Available only when XR_FB_composition_layer_settings is supported and enabled. Requests compositor sharpening for model layers. Off removes the request. This is separate from video sharpening and render resolution.</string>
+    <string name="ui_panel_placement">Panel position</string>
+    <string name="ui_panel_fixed">Fixed</string>
+    <string name="ui_panel_follow">Follow headset</string>
+    <string name="ui_panel_adjustment">Distance %1$.2f m · Size %2$.2f × %3$.2f m</string>
+    <string name="help_panel_placement">Fixed anchors panels in room coordinates. Follow headset moves panels after a sustained 20 cm head movement, with smoothing. Controller adjustment temporarily pauses following.</string>
+</resources>
