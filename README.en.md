@@ -95,20 +95,24 @@ adb -s <DEVICE_ID> shell am start -n org.spatialopenxr.sample/.XrActivity
 adb -s <DEVICE_ID> logcat -s SpatialOpenXR MoonlightSpatialUI
 ```
 
-空间示例使用 OpenXR 1.0 API 基线、标准 Android loader 1.1.53、GLES 3，启动时
-查询 `XR_KHR_android_create_instance` 与 `XR_KHR_opengl_es_enable`；缺失时明确报错。
-这两项是 Android/GLES 宿主要求，不是 PICO 私有 UI SDK。示例要求运行时提供
-立体视图配置及 `GL_SRGB8_ALPHA8` swapchain。它创建 1200×800、1.5×1.0 米的
-固定 Quad，位于 LOCAL 空间 `(0,0,-2)`；右手 simple-controller aim/select 对应
-青色指针和点击。具体物理按键由运行时绑定映射，不承诺每台设备都映射到 Trigger。
-目前尚无独立示例头显验收；创建、交互和销毁的静态审查见 [OpenXR audit](docs/OPENXR-AUDIT.md)。
+The sample uses the OpenXR 1.0 API baseline, standard Android loader 1.1.53 and
+GLES 3. It enumerates `XR_KHR_android_create_instance` and
+`XR_KHR_opengl_es_enable` before enabling them; missing requirements produce an
+explicit error. These are platform/graphics requirements, not a private PICO UI
+SDK. The runtime must provide primary stereo and `GL_SRGB8_ALPHA8` swapchains.
+The sample places a stationary 1200×800, 1.5×1.0-meter Quad at LOCAL `(0,0,-2)`.
+Right-hand simple-controller aim/select drives a cyan pointer and click events;
+the physical button mapping depends on the runtime. Headset acceptance is pending.
+See the [static OpenXR audit](docs/OPENXR-AUDIT.md) for initialization, interaction
+and teardown review and the unverified runtime checks.
 
-模型适配可用 `-PwithFilament=true` 启用，版本锁定为 Google Filament 1.80.0。
-调用方必须提供自有合法 GLB 资源、逐眼姿态和图层后端；样例不捆绑原产品模型。
-Vulkan 宿主适配保存在 [adapters/vulkan](adapters/vulkan/README.md)，保留原参数与
-实现供接入现有 Filament/Vulkan 宿主参考，不参与独立示例构建。
-[组件参数索引](docs/COMPONENTS.md)链接到每个组件的实际定义与默认参数。
-[第三方声明](THIRD_PARTY_NOTICES.md)列出资源来源与外部依赖许可。
+Enable the optional stereo model adapter with `-PwithFilament=true`, pinned to
+Google Filament 1.80.0. Supply a legally usable GLB, per-eye poses and a layer
+backend; no original product models are bundled. The original Vulkan integration
+sources and parameters remain under [adapters/vulkan](adapters/vulkan/README.md)
+for existing Filament/Vulkan hosts. They are outside the standalone sample build.
+The [component index](docs/COMPONENTS.md) links to actual definitions and parameter
+defaults. [Third-party notices](THIRD_PARTY_NOTICES.md) describe resource provenance.
 
 ## 获取源码 / Clone
 

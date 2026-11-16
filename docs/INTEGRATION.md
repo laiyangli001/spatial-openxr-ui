@@ -1,6 +1,6 @@
 # Android / OpenXR integration
 
-This draft describes the extracted GLES producer. The host still owns OpenXR.
+This guide describes the extracted GLES producer. The host owns OpenXR.
 
 ## Creation and threads
 
@@ -63,7 +63,8 @@ close or destroy its context while it is still being used by rendering.
 
 ## Validation boundaries
 
-The standalone sample currently demonstrates Android controls. No connected
+The standalone sample provides an Android gallery and native GLES OpenXR host.
+Their builds are verified, but headset execution is not. No connected
 headset was found by PICO CLI on 2026-11-16. Independent XR composition, physical
 controller input, final compositor color and stereo eye assignment remain unverified.
 The original project's headset history cannot substitute for those checks.
